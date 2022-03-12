@@ -1,0 +1,7 @@
+name: Pluggy
+version: '${project.version}'
+main: com.foulox.pluggy.Main
+api-version: 1.18
+authors: [ Foulox ]
+commands:
+  rank:
